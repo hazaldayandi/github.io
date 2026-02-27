@@ -1,0 +1,98 @@
+# Privacy Policy for HoraryNow
+
+Effective date: February 27, 2026
+
+HoraryNow (“we”, “us”, “our”) respects your privacy. This Privacy Policy explains what data we process when you use the HoraryNow mobile app.
+
+## 1. Data We Process
+
+### a) Question and Reading Data
+When you submit a question, we process:
+- Your question text
+- Reading context you provide (location, date/time, timezone, coordinates if available)
+- Generated AI response
+
+If cloud history is enabled, we store:
+- Question text
+- A short reading summary/preview
+- Timestamp
+- Anonymous app user identifier
+
+We currently keep history records for up to 30 days.
+
+### b) Device and App Data
+We may process limited technical data such as:
+- App version
+- Device type / OS version
+- Basic diagnostics and error logs
+
+### c) Advertising Data
+HoraryNow uses Google AdMob to show ads. AdMob may collect or receive data such as:
+- Device identifiers
+- Advertising identifiers
+- Approximate location
+- Interaction and performance data
+
+This data processing is governed by Google’s policies:
+- https://policies.google.com/privacy
+- https://support.google.com/admob/answer/6128543
+
+## 2. How We Use Data
+
+We use data to:
+- Provide horary reading functionality
+- Return responses in the appropriate language
+- Save and display history (if enabled)
+- Maintain app security and performance
+- Serve and measure ads
+
+## 3. Third-Party Services
+
+HoraryNow may use third-party services, including:
+- Google AdMob (ads)
+- Supabase (history storage / backend data)
+- AI model/API providers (reading generation)
+
+Each provider processes data under its own privacy terms.
+
+## 4. Legal Basis / Consent
+
+Where required, we request permission before accessing certain data (for example, location).  
+You can deny permissions and still use core app features with manually entered context.
+
+## 5. Data Retention
+
+- Local app data may remain on your device until deleted.
+- Cloud history (if enabled) is retained for up to 30 days unless deleted earlier.
+- Some diagnostic/log data may be retained for operational and security needs.
+
+## 6. Your Choices
+
+You can:
+- Avoid sharing optional information
+- Delete app history from within the app (where available)
+- Uninstall the app to remove local data
+
+For ad personalization controls, use your device privacy/ad settings.
+
+## 7. Children
+
+HoraryNow is not directed to children under the age defined by applicable law in your region.
+
+## 8. Security
+
+We use reasonable technical and organizational measures to protect data in transit and at rest. No method of transmission or storage is 100% secure.
+
+## 9. International Transfers
+
+Your data may be processed in countries other than your own, depending on our service providers’ infrastructure.
+
+## 10. Changes to This Policy
+
+We may update this Privacy Policy from time to time. We will post the updated version with a new effective date.
+
+## 11. Contact
+
+If you have questions about this Privacy Policy, contact:
+
+aauravita@gmail.com
